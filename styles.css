@@ -1,0 +1,35 @@
+.container{
+    color: blueviolet;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: line-through;
+    line-height: 48px;
+
+    background-color:aqua;
+    background-image:url(https://unsplash.it/512/512);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: green;
+}
+
+a:active{
+    color:purple;
+}
+
+.pseudo_class:hover{
+    background-color: darkorange;
+}
+
+.pseudo_class:active{
+    background-color: cadetblue;
+}
